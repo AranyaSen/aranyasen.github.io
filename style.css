@@ -3,7 +3,7 @@
     padding: 0;
     font-family: 'Smooch Sans', sans-serif;
     /* font-weight: bold; */
-    color: aliceblue;
+    color: aliceblue; 
 }
 .h1-primary{
     font-size: 5rem;
@@ -57,6 +57,9 @@ section{
 .me span{
     font-size: 1.2rem;
     color: aliceblue;
+}
+#navbar{
+    margin-top: 1rem;
 }
 #navbar ul{
     margin: 0;
@@ -308,6 +311,21 @@ section{
         font-size: 1.5rem;
         color: brown;
     }
+    .contact-me{
+        width: 100%;
+    }
+    #text{
+        height: 1.5rem;
+    }
+    #email{
+        height: 1.5rem;
+    }
+    #number{
+        height: 1.5rem;
+    }
+    #comment{
+        height: 5rem;
+    }
 }
 
 @media only screen and (max-width:450px){
@@ -325,6 +343,9 @@ section{
     }
     #contact{
         padding: 0 2rem;
+    }
+    .h1-primary{
+        font-size: 3rem;
     }
 }
 
@@ -344,6 +365,9 @@ section{
     #contact{
         padding: 0 1rem;
     }
+    .me span{
+        font-size: 10rem;
+    }
 }
 @media only screen and (max-width:280px){
     #home{
@@ -362,6 +386,7 @@ section{
         padding: 0 .3rem;
     }
 }
+/* @media only screen and (max-width:) */
 
 
 
