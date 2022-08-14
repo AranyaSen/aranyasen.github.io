@@ -365,11 +365,17 @@ section{
     #contact{
         padding: 0 1rem;
     }
-    .me span{
-        font-size: 10rem;
+    .contents h4{
+        font-size: 1.8rem !important;
     }
+    .contents span{
+        font-size: 1.7rem;
+    }
+    /* .contents h4{
+        font-size: 10rem;
+    } */
 }
-@media only screen and (max-width:280px){
+@media only screen and (max-width:301px){
     #home{
         padding: 0 .3rem;
     }
@@ -385,4 +391,18 @@ section{
     #contact{
         padding: 0 .3rem;
     }
+    .contents h4{
+        font-size: 1rem !important;
+    }
+    .contents span{
+        font-size: 1rem;
+    }
 }
+/* @media only screen and (max-width:) */
+
+
+
+
+
+
+
