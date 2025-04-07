@@ -1,5 +1,6 @@
 import React, { useRef, useState } from "react";
 import "./LandingPage.css";
+import myImage from '../images/myImage.jpg';
 
 const LandingPage = () => {
   const [navVisible, setNavVisible] = useState(false);
@@ -61,7 +62,7 @@ const LandingPage = () => {
             <div className="img-section">
               <img
                 className="my-image"
-                src="../../images/myImage.jpg"
+                src={myImage}
                 alt="myImage"
               />
             </div>
