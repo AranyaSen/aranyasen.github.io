@@ -195,7 +195,7 @@
       }
       span.info {
         gap: 0.3rem;
-        bottom: 0;
+        bottom: 1rem;
 
         svg {
           width: 30px;
