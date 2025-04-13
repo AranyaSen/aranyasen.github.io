@@ -137,7 +137,7 @@ const LandingPage = () => {
         </section>
         <section className="connection-section" ref={connectionRef}>
           <div className="main-content">
-            <div>
+            <div className="connection-links">
               <h2>Connection Links</h2>
               <ul>
                 <li>
