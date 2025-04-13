@@ -6,7 +6,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" Component={LandingPage} />
+        <Route path="/myPortfolio" Component={LandingPage} />
       </Routes>
     </BrowserRouter>
   );
