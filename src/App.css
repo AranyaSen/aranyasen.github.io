@@ -2,7 +2,6 @@ body {
   font-family: "Inter", sans-serif;
 }
 ::-webkit-scrollbar {
-  height: 12px;
   width: 12px;
   background: #58585846;
   border: none;
