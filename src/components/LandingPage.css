@@ -69,7 +69,7 @@
     }
   }
   .main-content {
-    padding: 4rem;
+    padding: 2.25rem;
   }
   .intro-section {
     position: relative;
@@ -130,7 +130,7 @@
   .connection-links {
     display: flex;
     flex-direction: column;
-    gap: 2.25rem;
+    gap: 1.2rem;
   }
   .skills-list {
     display: flex;
@@ -143,11 +143,11 @@
     gap: 0.5rem;
 
     span {
-      font-size: 1.75rem;
+      font-size: 1.5rem;
     }
 
     li {
-      font-size: 1.5rem;
+      font-size: 1.2rem;
 
       a {
         text-decoration: none;
@@ -199,7 +199,7 @@
       }
       span.info {
         gap: 0.3rem;
-        bottom: 1.5rem;
+        bottom: 1.75rem;
 
         svg {
           width: 30px;
@@ -248,7 +248,7 @@
   .main-content {
     padding: 2.25rem !important;
   }
-  .quick-links{
+  .quick-links {
     padding: 2rem !important;
   }
   .experience-section,
@@ -256,11 +256,11 @@
   .connection-links {
     gap: 0.5rem !important;
   }
-  h3{
+  h3 {
     font-size: 1.25rem !important;
   }
-  ul{
-    span{
+  ul {
+    span {
       font-size: 1.25rem !important;
     }
   }
